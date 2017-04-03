@@ -2,9 +2,9 @@
 
 ## Overview
 
-`So You Just Learned` is an open source collection of resources designed to act as an entry point for people just learning about inequity in the tech industry. This is not meant to act as a comprehensive guide, but is a good jumping off point for people who want to learn more in good faith.
+`So You Just Learned` is an open source collection of resources designed as an entry point for people just learning about inequity in the tech industry. This is not meant to act as a comprehensive guide. It is, however, a good jumping off point for people who want to learn more in good faith.
 
-This document hopefully serves to reduce the emotional labor of marginalized people in tech. Having to explain grievances and justify your existence over and over again is an unhealthy emotional burden that contributes to animosity and burnout within the tech industry. This project is a small step forward toward alleviating some of that burden.
+This document aims to reduce the emotional labor of marginalized people in tech. Having to rehash grievances and repeatedly explain marginalization and bias is an unhealthy emotional burden. This contributes to animosity and burnout within the tech industry. This project is a small step forward toward alleviating some of that burden.
 
 ## What belongs in this project?
 
@@ -16,9 +16,9 @@ This document hopefully serves to reduce the emotional labor of marginalized peo
 
 ## What do I need to contribute?
 
-This project is hosted on Github, so a working knowledge of basic git commands is useful. However, the core contributors of the project are happy to talk about this process through issues and pull requests if you are just learning about git and contributing to Open Source. `So You Just Learned` is committed to being an open and inclusive environment, and is a great place to practice your skills and submit your first pull request!
+This project is hosted on Github, so a working knowledge of git is useful. However, the core contributors are happy to talk about this process through issues and pull requests if you are just learning about git and contributing to Open Source. `So You Just Learned` is committed to being an open and inclusive environment, and is a great place to practice your skills and submit your first pull request!
 
-`So You Just Learned` has adopted the Contributor Covenant as our governing Code of Conduct. By submitting a pull request to this project, you are agreeing to abide by the Contributor Covenant.
+`So You Just Learned` has adopted the [Contributor Covenant](http://contributor-covenant.org/) v 1.4 as our governing Code of Conduct. By submitting a pull request to this project, you are agreeing to abide by the Contributor Covenant.
 
 ## Steps to Contribute
 
