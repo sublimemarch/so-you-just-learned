@@ -72,4 +72,4 @@ available at [http://contributor-covenant.org/version/1/4][version]
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
-[jess_email]: j.l.unrein+contact@gmail.com
+[jess_email]: mailto:j.l.unrein+contact@gmail.com
