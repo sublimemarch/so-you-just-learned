@@ -32,6 +32,8 @@ That’s right, we said educate *yourself*. We’re not going to do it for you.
 
 **I Need Terrible Female Engineers** - [https://medium.com/@amyngyn/i-need-terrible-female-engineers-1023a2e973dd#.x6teafgwf](https://medium.com/@amyngyn/i-need-terrible-female-engineers-1023a2e973dd#.x6teafgwf) - Why it’s exhausting that there are so many exemplary women. Stereotype threat and the pervasive myth of the "exceptional woman" in tech create a barrier that makes women believe they are never good enough. The same could be applied to the “exceptional minority” stereotype that exists in the tech industry.
 
+**Why I Won't Make it Past Your Careers Page** [https://medium.com/shenomads/why-i-wont-make-it-past-your-careers-page-e7408a67f813](https://medium.com/shenomads/why-i-wont-make-it-past-your-careers-page-e7408a67f813) - A look at how innocuous design decisions in your recruitment efforts can alienate candidates and stall hiring diverse candidates.
+
 **A female engineer is suing Tesla over sexism and harassment claims** - [http://www.businessinsider.com/engineer-aj-vandermeyden-is-suing-tesla-for-alleged-sexism-and-harassment-2017-2](http://www.businessinsider.com/engineer-aj-vandermeyden-is-suing-tesla-for-alleged-sexism-and-harassment-2017-2) - "In a viral blog post, she alleged that management and HR dismissed her complaints about documented sexual harassment and sexism, protected a repeat offender because he was a "high performer" and suggested that women in the company weren’t as skilled as men."
 
 # Step 2: Do Something About It
