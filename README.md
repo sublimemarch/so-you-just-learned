@@ -70,7 +70,9 @@ TransTech - [http://transtechsocial.org/](http://transtechsocial.org/)
 
 Keep up with current events and developments.
 
-Follow publications and people on Twitter and elsewhere that frequently discuss the problems with the tech industry. Links coming soon.
+Follow publications and people on Twitter and elsewhere that frequently discuss the problems with the tech industry.
+
+**Ongoing Timeline of Incidents of Sexism in Geek Communities** like tech, gaming, comics, etc. - [Timeline of Incidents](http://geekfeminism.wikia.com/wiki/Timeline_of_incidents)
 
 # Step 4: Bonus Reading
 
