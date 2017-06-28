@@ -78,7 +78,7 @@ More reading for extra credit.
 
 [links to things that are less core to the message of "tech has problems", maybe things that do general education about social justice]
 
-**[Straight White Male: The Lowest Difficulty Setting There Is](http://whatever.scalzi.com/2012/05/15/straight-white-male-the-lowest-difficulty-setting-there-is/) - Still having a bit of a hard time wrapping your head around the concept of priviliege and how it can benifit you without you being aware of it? Here’s a handy metaphor. :)
+**[Straight White Male: The Lowest Difficulty Setting There Is](http://whatever.scalzi.com/2012/05/15/straight-white-male-the-lowest-difficulty-setting-there-is/)** - Still having a bit of a hard time wrapping your head around the concept of priviliege and how it can benifit you without you being aware of it? Here’s a handy metaphor. :)
 
 **[Parable of the Polygons](http://vihart.com/parable-of-the-polygons/)** - Small individual bias can lead to large collective bias. Our segregated past still haunts us, despite reduced bias now. We have to actively call for diversity to correct for de facto segregation. Learn how WITH INTERACTIVE MATH.
 
