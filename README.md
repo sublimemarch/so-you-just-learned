@@ -36,6 +36,8 @@ That’s right, we said educate *yourself*. We’re not going to do it for you.
 
 **[A female engineer is suing Tesla over sexism and harassment claims](http://www.businessinsider.com/engineer-aj-vandermeyden-is-suing-tesla-for-alleged-sexism-and-harassment-2017-2)** - "In a viral blog post, she alleged that management and HR dismissed her complaints about documented sexual harassment and sexism, protected a repeat offender because he was a "high performer" and suggested that women in the company weren’t as skilled as men."
 
+**[If you think women in tech is just a pipeline problem, you haven't been paying attention](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.2xw2y2f1s)**
+
 # Step 2: Do Something About It
 
 Knowing that there are problems isn’t enough. Pick an organization that helps to improve the tech industry and donate your money or time.
@@ -107,3 +109,7 @@ More reading for extra credit.
 **[Explaining Privilege to a Broke White Person](http://www.huffingtonpost.com/gina-crosleycorcoran/explaining-white-privilege-to-a-broke-white-person_b_5269255.html)**
 
 **[An Advocate for Women in the Valley Quits Github, Citing Harassment](https://www.wired.com/2014/03/culture-offsets/)**
+
+**[Why Women Leave Tech (infographic)](https://anitaborg.org/insights-tools/infographics/why-women-leave/)**
+
+**[Why women leave tech: It's the culture, not because 'math is hard'](http://fortune.com/2014/10/02/women-leave-tech-culture/)**
