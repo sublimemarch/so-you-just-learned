@@ -70,7 +70,9 @@ Knowing that there are problems isn’t enough. Pick an organization that helps 
 
 Keep up with current events and developments.
 
-Follow publications and people on Twitter and elsewhere that frequently discuss the problems with the tech industry. Links coming soon.
+Follow publications and people on Twitter and elsewhere that frequently discuss the problems with the tech industry.
+
+**[Timeline of Incidents](http://geekfeminism.wikia.com/wiki/Timeline_of_incidents) of Sexism in Geek Communities** including tech, gaming, comics, etc.
 
 # Step 4: Bonus Reading
 
