@@ -2,17 +2,17 @@ So, you just learned there are issues with the tech industry. Maybe you came her
 
 # Table of Contents
 
-- [Hold your questions](#step-0)
-- [Educate Yourself](#step-1)
- - [Women of Color](#Women-of-color)
- - [Gender](#gender)
- - [Race](#race)
- - [General](#general)
-- [Do Something](#Step-2)
-- [Keep Educating Yourself](#Step-3)
-- [Bonus Reading](#Step-4)
+- *[Hold your questions](#step0)*
+- *[Educate Yourself](#step1)*
+  - [Women of Color](#woc)
+  - [Gender](#gender)
+  - [Race](#race)
+  - [General](#general)
+- *[Do Something](#step2)*
+- *[Keep Educating Yourself](#step3)*
+- *[Bonus Reading](#step4)*
 
-# [Step 0: Please hold your questions until the end of Step 1.](step-0)
+# [Step 0: Please hold your questions until the end of Step 1.](#step0)
 
 You’re learning new things and you might want to jump in with both feet. *We get it!* 
 
@@ -22,11 +22,11 @@ It’s important to protect the *Emotional Labor* of your [marginalized](https:/
 
 Take a deep breath, have Google opened in a new tab, learn to take really good notes, and get ready for step one.
 
-# [Step 1: Educate Yourself](#step-1)
+# [Step 1: Educate Yourself](#step1)
 
 That’s right, we said educate *yourself*. We’re not going to do it for you.
 
-### Women of Color
+### [Women of Color](#woc)
 
 *Note: women of color deserve a separate category because of the complications of inhabiting intersectional identities and encountering overlapping bias.*
 
