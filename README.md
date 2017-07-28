@@ -26,7 +26,7 @@ Take a deep breath, have Google opened in a new tab, learn to take really good n
 
 That’s right, we said educate *yourself*. We’re not going to do it for you.
 
-### [Women of Color]
+### Women of Color
 
 *Note: women of color deserve a separate category because of the complications of inhabiting intersectional identities and encountering overlapping bias.*
 
