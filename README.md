@@ -121,3 +121,5 @@ More reading for extra credit.
 **[Why Women Leave Tech (infographic)](https://anitaborg.org/insights-tools/infographics/why-women-leave/)**
 
 **[Why women leave tech: It's the culture, not because 'math is hard'](http://fortune.com/2014/10/02/women-leave-tech-culture/)**
+
+**[Delhi Rape Survivor Sues Uber For Illegally Accessing Medical Records](https://inc42.com/buzz/uber-rape-case/)**
