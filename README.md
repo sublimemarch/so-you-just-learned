@@ -2,17 +2,17 @@ So, you just learned there are issues with the tech industry. Maybe you came her
 
 # Table of Contents
 
-- *[Hold your questions](#step0)*
-- *[Educate Yourself](#step1)*
-  - [Women of Color](#woc)
+- *[Hold your questions](#step-0-please-hold-your-questions-until-the-end-of-step-1)*
+- *[Educate Yourself](#step-1-educate-yourself)*
+  - [Women of Color](#women-of-color)
   - [Gender](#gender)
   - [Race](#race)
   - [General](#general)
-- *[Do Something](#step2)*
-- *[Keep Educating Yourself](#step3)*
-- *[Bonus Reading](#step4)*
+- *[Do Something](#step-2-do-something-about-it)*
+- *[Keep Educating Yourself](#step-3-keep-educating-yourself)*
+- *[Bonus Reading](#step-4-bonus-reading)*
 
-# [Step 0: Please hold your questions until the end of Step 1.](#step0)
+# Step 0: Please hold your questions until the end of Step 1.
 
 You’re learning new things and you might want to jump in with both feet. *We get it!* 
 
@@ -22,11 +22,11 @@ It’s important to protect the *Emotional Labor* of your [marginalized](https:/
 
 Take a deep breath, have Google opened in a new tab, learn to take really good notes, and get ready for step one.
 
-# [Step 1: Educate Yourself](#step1)
+# Step 1: Educate Yourself
 
 That’s right, we said educate *yourself*. We’re not going to do it for you.
 
-### [Women of Color](#woc)
+### [Women of Color]
 
 *Note: women of color deserve a separate category because of the complications of inhabiting intersectional identities and encountering overlapping bias.*
 
@@ -54,7 +54,7 @@ That’s right, we said educate *yourself*. We’re not going to do it for you.
 
 **[A Hacking Hiatus](https://medium.com/hackers-and-hacking/a-hacking-hiatus-4844ae073d4)**  - "I’ve felt increasingly uncomfortable and often downright disrespected within a community that I helped build.“
 
-# [Step 2: Do Something About It](#step-2)
+# Step 2: Do Something About It
 
 Knowing that there are problems isn’t enough. Pick an organization that helps to improve the tech industry and donate your money or time.
 
@@ -86,7 +86,7 @@ Knowing that there are problems isn’t enough. Pick an organization that helps 
 
 [TransTech](http://transtechsocial.org/)
 
-# [Step 3: Keep Educating Yourself](#step-3)
+# Step 3: Keep Educating Yourself
 
 Keep up with current events and developments.
 
@@ -94,7 +94,7 @@ Follow publications and people on Twitter and elsewhere that frequently discuss 
 
 **[Timeline of Incidents](http://geekfeminism.wikia.com/wiki/Timeline_of_incidents) of Sexism in Geek Communities** including tech, gaming, comics, etc.
 
-# [Step 4: Bonus Reading](#step-4)
+# Step 4: Bonus Reading
 
 More reading for extra credit.
 
