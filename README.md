@@ -74,11 +74,17 @@ Knowing that there are problems isn’t enough. Pick an organization that helps 
 
 Keep up with current events and developments.
 
-**Podcasts**:
+Follow publications and individuals that frequently discuss problems with the tech industry.
+
+**Podcasts**
 
 - **[Greater Than Code](https://www.greaterthancode.com/)** because #PeopleMatter
 - **[NPR's Code Switch Podcast](http://www.npr.org/sections/codeswitch/484785516/the-code-switch-podcast)** - We're not as "post-racial" as we like to think
 - **[Code Newbie](http://www.codenewbie.org/podcast)** - not strictly about intersectionality or dealing with marginalization, but Saron books a diverse lineup of guests that you should definitely keep an eye on!
+
+**Wiki/Timeline Resources**
+
+**[Timeline of Incidents](http://geekfeminism.wikia.com/wiki/Timeline_of_incidents) of Sexism in Geek Communities** including tech, gaming, comics, etc.
 
 # Step 4: Bonus Reading
 
