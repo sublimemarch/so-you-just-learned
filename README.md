@@ -11,7 +11,7 @@ So, you just learned there are issues with the tech industry. Maybe you came her
 - *[Do Something](#step-2-do-something-about-it)*
 - *[Keep Educating Yourself](#step-3-keep-educating-yourself)*
   - [Podcasts](#podcasts)
-  - [Wiki/Timeline Resources](#wiki-timeline-resources)
+  - [Wiki/Timeline Resources](#wikitimeline-resources)
 - *[Bonus Reading](#step-4-bonus-reading)*
 
 # Step 0: Please hold your questions until the end of Step 1.
