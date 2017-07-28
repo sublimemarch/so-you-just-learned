@@ -110,7 +110,7 @@ More reading for extra credit.
 
 **[Derailing for Dummies](http://www.derailingfordummies.com/)** - A satirical guide on how to derail a conversation about social justice. Use this guide to understand the tactics people consciously and unconsciously use to shut down discussion and discredit people’s lived experiences. See also this handy **[Derailment Bingo Card](https://piranha.dreamwidth.org/445505.html)**
 
-**[Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options)** - Plenty of poeple don’t drink for religious, health, or personal reasons. It’s not really any of our business why someone chooses not to drink, but it *is *our responsibility to make them feel included and not tie career growth and networking opportunities to alcohol consumption.
+**[Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options)** - Plenty of poeple don’t drink for religious, health, or personal reasons. It’s not really any of our business why someone chooses not to drink, but it *is* our responsibility to make them feel included and not tie career growth and networking opportunities to alcohol consumption.
 
 **[EXCLUSIVE: HOW TO BREAK UP THE SILICON VALLEY BOYS’ CLUB](http://www.vanityfair.com/news/2017/03/how-to-break-up-the-silicon-valley-boys-club-susan-wojcicki)**
 
