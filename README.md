@@ -12,9 +12,7 @@ So, you just learned there are issues with the tech industry. Maybe you came her
 - ### [Keep Educating Yourself](#Step-3)
 - ### [Bonus Reading](#Step-4)
 
-# Step 0
-
-## Please hold your questions until the end of Step 1.
+# [Step 0: Please hold your questions until the end of Step 1.](Step-0)
 
 You’re learning new things and you might want to jump in with both feet. *We get it!* 
 
@@ -24,7 +22,7 @@ It’s important to protect the *Emotional Labor* of your [marginalized](https:/
 
 Take a deep breath, have Google opened in a new tab, learn to take really good notes, and get ready for step one.
 
-# Step 1: Educate Yourself
+# [Step 1: Educate Yourself](#Step-1)
 
 That’s right, we said educate *yourself*. We’re not going to do it for you.
 
@@ -56,9 +54,7 @@ That’s right, we said educate *yourself*. We’re not going to do it for you.
 
 **[A Hacking Hiatus](https://medium.com/hackers-and-hacking/a-hacking-hiatus-4844ae073d4)**  - "I’ve felt increasingly uncomfortable and often downright disrespected within a community that I helped build.“
 
-# Step 2
-
-## Do Something About It
+# [Step 2: Do Something About It](#Step-2)
 
 Knowing that there are problems isn’t enough. Pick an organization that helps to improve the tech industry and donate your money or time.
 
@@ -90,9 +86,7 @@ Knowing that there are problems isn’t enough. Pick an organization that helps 
 
 [TransTech](http://transtechsocial.org/)
 
-# Step 3
-
-## Keep Educating Yourself
+# [Step 3: Keep Educating Yourself](#Step-3)
 
 Keep up with current events and developments.
 
@@ -100,9 +94,7 @@ Follow publications and people on Twitter and elsewhere that frequently discuss 
 
 **[Timeline of Incidents](http://geekfeminism.wikia.com/wiki/Timeline_of_incidents) of Sexism in Geek Communities** including tech, gaming, comics, etc.
 
-# Step 4
-
-## Bonus Reading
+# [Step 4: Bonus Reading](#Step-4)
 
 More reading for extra credit.
 
