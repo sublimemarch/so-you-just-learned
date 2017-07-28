@@ -1,6 +1,20 @@
-So, you just learned there are issues with the tech industry. Maybe you came here looking to learn more, or maybe someone else linked you to this document and suggested you read it. What now? 
+So, you just learned there are issues with the tech industry. Maybe you came here looking to learn more, or maybe someone else linked you to this document and suggested you read it. What now?
 
-# Step 0: Please hold your questions until the end of Step 1.
+# Table of Contents
+
+- ## [Hold your questions](#Step-0)
+- ## [Educate Yourself](#Step-1)
+ - [Women of Color](#Women-of-color)
+ - [Gender](#gender)
+ - [Race](#race)
+ - [General](#general)
+- ### [Do Something](#Step-2)
+- ### [Keep Educating Yourself](#Step-3)
+- ### [Bonus Reading](#Step-4)
+
+# Step 0
+
+## Please hold your questions until the end of Step 1.
 
 You’re learning new things and you might want to jump in with both feet. *We get it!* 
 
@@ -14,13 +28,27 @@ Take a deep breath, have Google opened in a new tab, learn to take really good n
 
 That’s right, we said educate *yourself*. We’re not going to do it for you.
 
+### Women of Color
+
+*Note: women of color deserve a separate category because of the complications of inhabiting intersectional identities and encountering overlapping bias.*
+
 **[Not a Black Chair](https://medium.com/@amelielamont/not-a-black-chair-8a8e7e2b9140)** - One woman’s story of racism, sexism, and discrimination at Squarespace.
+
+### Gender
 
 **["Females" in Open Source](https://modelviewculture.com/pieces/females-in-open-source)** - "Events being ‘open to everyone’ was a token political statement. If they didn’t recognize someone as being part of their in-group, all they had to do was make them uncomfortable. After all, that person is always ‘free’ to leave."
 
 **[Reflecting On One Very, Very Strange Year At Uber](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber)** - Possibly the most euphamistic title I’ve ever seen of one of these accounts. Sexism and racism are rampant at Uber. Who knew?
 
+**[The Ping Pong Theory of Tech World Sexism](https://medium.com/matter/the-ping-pong-theory-of-tech-world-sexism-c2053c10c06c)** - Explaining tech world sexism in comic strip form.
+
+**[I Need Terrible Female Engineers](https://medium.com/@amyngyn/i-need-terrible-female-engineers-1023a2e973dd#.x6teafgwf)** - Why it’s exhausting that there are so many exemplary women. Stereotype threat and the pervasive myth of the "exceptional woman" in tech create a barrier that makes women believe they are never good enough. The same could be applied to the “exceptional minority” stereotype that exists in the tech industry.
+
+### Race
+
 **[Q&A With the Black Twitter Engineer Who Left Over Diversity Problems](http://www.npr.org/sections/codeswitch/2015/11/06/454949422/a-q-a-with-lesley-miley-the-black-twitter-engineer-who-left-over-diversity-probl)** - What it says on the tin :)
+
+### General
 
 **[The Other Side of Diversity](https://medium.com/this-is-hard/the-other-side-of-diversity-1bb3de2f053e)** - "I don’t need to change to fit within my industry. My industry needs to change to make everyone feel included and accepted."
 
@@ -28,13 +56,9 @@ That’s right, we said educate *yourself*. We’re not going to do it for you.
 
 **[A Hacking Hiatus](https://medium.com/hackers-and-hacking/a-hacking-hiatus-4844ae073d4)**  - "I’ve felt increasingly uncomfortable and often downright disrespected within a community that I helped build.“
 
-**[The Ping Pong Theory of Tech World Sexism](https://medium.com/matter/the-ping-pong-theory-of-tech-world-sexism-c2053c10c06c)** - Explaining tech world sexism in comic strip form.
+# Step 2
 
-**[I Need Terrible Female Engineers](https://medium.com/@amyngyn/i-need-terrible-female-engineers-1023a2e973dd#.x6teafgwf)** - Why it’s exhausting that there are so many exemplary women. Stereotype threat and the pervasive myth of the "exceptional woman" in tech create a barrier that makes women believe they are never good enough. The same could be applied to the “exceptional minority” stereotype that exists in the tech industry.
-
-**[A female engineer is suing Tesla over sexism and harassment claims](http://www.businessinsider.com/engineer-aj-vandermeyden-is-suing-tesla-for-alleged-sexism-and-harassment-2017-2)** - "In a viral blog post, she alleged that management and HR dismissed her complaints about documented sexual harassment and sexism, protected a repeat offender because he was a "high performer" and suggested that women in the company weren’t as skilled as men."
-
-# Step 2: Do Something About It
+## Do Something About It
 
 Knowing that there are problems isn’t enough. Pick an organization that helps to improve the tech industry and donate your money or time.
 
@@ -66,7 +90,9 @@ Knowing that there are problems isn’t enough. Pick an organization that helps 
 
 [TransTech](http://transtechsocial.org/)
 
-# Step 3: Keep Educating Yourself
+# Step 3
+
+## Keep Educating Yourself
 
 Keep up with current events and developments.
 
@@ -74,7 +100,9 @@ Follow publications and people on Twitter and elsewhere that frequently discuss 
 
 **[Timeline of Incidents](http://geekfeminism.wikia.com/wiki/Timeline_of_incidents) of Sexism in Geek Communities** including tech, gaming, comics, etc.
 
-# Step 4: Bonus Reading
+# Step 4
+
+## Bonus Reading
 
 More reading for extra credit.
 
@@ -97,6 +125,8 @@ More reading for extra credit.
 **[Derailing for Dummies](http://www.derailingfordummies.com/)** - A satirical guide on how to derail a conversation about social justice. Use this guide to understand the tactics people consciously and unconsciously use to shut down discussion and discredit people’s lived experiences. See also this handy **[Derailment Bingo Card](https://piranha.dreamwidth.org/445505.html)**
 
 **[Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options)** - Plenty of poeple don’t drink for religious, health, or personal reasons. It’s not really any of our business why someone chooses not to drink, but it *is *our responsibility to make them feel included and not tie career growth and networking opportunities to alcohol consumption.
+
+**[A female engineer is suing Tesla over sexism and harassment claims](http://www.businessinsider.com/engineer-aj-vandermeyden-is-suing-tesla-for-alleged-sexism-and-harassment-2017-2)** - "In a viral blog post, she alleged that management and HR dismissed her complaints about documented sexual harassment and sexism, protected a repeat offender because he was a "high performer" and suggested that women in the company weren’t as skilled as men."
 
 **[EXCLUSIVE: HOW TO BREAK UP THE SILICON VALLEY BOYS’ CLUB](http://www.vanityfair.com/news/2017/03/how-to-break-up-the-silicon-valley-boys-club-susan-wojcicki)**
 
