@@ -16,6 +16,8 @@ That’s right, we said educate *yourself*. We’re not going to do it for you.
 
 **[Not a Black Chair](https://medium.com/@amelielamont/not-a-black-chair-8a8e7e2b9140)** - One woman’s story of racism, sexism, and discrimination at Squarespace.
 
+**[Antisocial coding: my year at github](http://where.coraline.codes/blog/my-year-at-github/)** - An important, frustrating, heartbreaking read about what happens to marginalized people when HR decides they don't want you anymore.
+
 **["Females" in Open Source](https://modelviewculture.com/pieces/females-in-open-source)** - "Events being ‘open to everyone’ was a token political statement. If they didn’t recognize someone as being part of their in-group, all they had to do was make them uncomfortable. After all, that person is always ‘free’ to leave."
 
 **[Reflecting On One Very, Very Strange Year At Uber](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber)** - Possibly the most euphamistic title I’ve ever seen of one of these accounts. Sexism and racism are rampant at Uber. Who knew?
