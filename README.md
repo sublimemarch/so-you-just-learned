@@ -10,6 +10,8 @@ So, you just learned there are issues with the tech industry. Maybe you came her
   - [General](#general)
 - *[Do Something](#step-2-do-something-about-it)*
 - *[Keep Educating Yourself](#step-3-keep-educating-yourself)*
+  - [Podcasts](#podcasts)
+  - [Wiki/Timeline Resources](#wiki-timeline-resources)
 - *[Bonus Reading](#step-4-bonus-reading)*
 
 # Step 0: Please hold your questions until the end of Step 1.
@@ -98,13 +100,13 @@ Keep up with current events and developments.
 
 Follow publications and individuals that frequently discuss problems with the tech industry.
 
-**Podcasts**
+#### Podcasts
 
 - **[Greater Than Code](https://www.greaterthancode.com/)** because #PeopleMatter
 - **[NPR's Code Switch Podcast](http://www.npr.org/sections/codeswitch/484785516/the-code-switch-podcast)** - We're not as "post-racial" as we like to think
 - **[Code Newbie](http://www.codenewbie.org/podcast)** - not strictly about intersectionality or dealing with marginalization, but Saron books a diverse lineup of guests that you should definitely keep an eye on!
 
-**Wiki/Timeline Resources**
+#### Wiki/Timeline Resources
 
 **[Timeline of Incidents](http://geekfeminism.wikia.com/wiki/Timeline_of_incidents) of Sexism in Geek Communities** including tech, gaming, comics, etc.
 
