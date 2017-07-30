@@ -16,6 +16,8 @@ That’s right, we said educate *yourself*. We’re not going to do it for you.
 
 **[Not a Black Chair](https://medium.com/@amelielamont/not-a-black-chair-8a8e7e2b9140)** - One woman’s story of racism, sexism, and discrimination at Squarespace.
 
+**[Antisocial coding: my year at github](http://where.coraline.codes/blog/my-year-at-github/)** - An important, frustrating, heartbreaking read about what happens to marginalized people when HR decides they don't want you anymore.
+
 **["Females" in Open Source](https://modelviewculture.com/pieces/females-in-open-source)** - "Events being ‘open to everyone’ was a token political statement. If they didn’t recognize someone as being part of their in-group, all they had to do was make them uncomfortable. After all, that person is always ‘free’ to leave."
 
 **[Reflecting On One Very, Very Strange Year At Uber](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber)** - Possibly the most euphamistic title I’ve ever seen of one of these accounts. Sexism and racism are rampant at Uber. Who knew?
@@ -32,7 +34,11 @@ That’s right, we said educate *yourself*. We’re not going to do it for you.
 
 **[I Need Terrible Female Engineers](https://medium.com/@amyngyn/i-need-terrible-female-engineers-1023a2e973dd#.x6teafgwf)** - Why it’s exhausting that there are so many exemplary women. Stereotype threat and the pervasive myth of the "exceptional woman" in tech create a barrier that makes women believe they are never good enough. The same could be applied to the “exceptional minority” stereotype that exists in the tech industry.
 
+**[Why I Won't Make it Past Your Careers Page](https://medium.com/shenomads/why-i-wont-make-it-past-your-careers-page-e7408a67f813)** - A look at how innocuous design decisions in your recruitment efforts can alienate candidates and stall hiring diverse candidates.
+
 **[A female engineer is suing Tesla over sexism and harassment claims](http://www.businessinsider.com/engineer-aj-vandermeyden-is-suing-tesla-for-alleged-sexism-and-harassment-2017-2)** - "In a viral blog post, she alleged that management and HR dismissed her complaints about documented sexual harassment and sexism, protected a repeat offender because he was a "high performer" and suggested that women in the company weren’t as skilled as men."
+
+**[If you think women in tech is just a pipeline problem, you haven't been paying attention](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.2xw2y2f1s)**
 
 # Step 2: Do Something About It
 
@@ -70,7 +76,15 @@ Knowing that there are problems isn’t enough. Pick an organization that helps 
 
 Keep up with current events and developments.
 
-Follow publications and people on Twitter and elsewhere that frequently discuss the problems with the tech industry.
+Follow publications and individuals that frequently discuss problems with the tech industry.
+
+**Podcasts**
+
+- **[Greater Than Code](https://www.greaterthancode.com/)** because #PeopleMatter
+- **[NPR's Code Switch Podcast](http://www.npr.org/sections/codeswitch/484785516/the-code-switch-podcast)** - We're not as "post-racial" as we like to think
+- **[Code Newbie](http://www.codenewbie.org/podcast)** - not strictly about intersectionality or dealing with marginalization, but Saron books a diverse lineup of guests that you should definitely keep an eye on!
+
+**Wiki/Timeline Resources**
 
 **[Timeline of Incidents](http://geekfeminism.wikia.com/wiki/Timeline_of_incidents) of Sexism in Geek Communities** including tech, gaming, comics, etc.
 
@@ -96,10 +110,16 @@ More reading for extra credit.
 
 **[Derailing for Dummies](http://www.derailingfordummies.com/)** - A satirical guide on how to derail a conversation about social justice. Use this guide to understand the tactics people consciously and unconsciously use to shut down discussion and discredit people’s lived experiences. See also this handy **[Derailment Bingo Card](https://piranha.dreamwidth.org/445505.html)**
 
-**[Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options)** - Plenty of poeple don’t drink for religious, health, or personal reasons. It’s not really any of our business why someone chooses not to drink, but it *is *our responsibility to make them feel included and not tie career growth and networking opportunities to alcohol consumption.
+**[Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options)** - Plenty of poeple don’t drink for religious, health, or personal reasons. It’s not really any of our business why someone chooses not to drink, but it *is* our responsibility to make them feel included and not tie career growth and networking opportunities to alcohol consumption.
 
 **[EXCLUSIVE: HOW TO BREAK UP THE SILICON VALLEY BOYS’ CLUB](http://www.vanityfair.com/news/2017/03/how-to-break-up-the-silicon-valley-boys-club-susan-wojcicki)**
 
 **[Explaining Privilege to a Broke White Person](http://www.huffingtonpost.com/gina-crosleycorcoran/explaining-white-privilege-to-a-broke-white-person_b_5269255.html)**
 
 **[An Advocate for Women in the Valley Quits Github, Citing Harassment](https://www.wired.com/2014/03/culture-offsets/)**
+
+**[Why Women Leave Tech (infographic)](https://anitaborg.org/insights-tools/infographics/why-women-leave/)**
+
+**[Why women leave tech: It's the culture, not because 'math is hard'](http://fortune.com/2014/10/02/women-leave-tech-culture/)**
+
+**[Delhi Rape Survivor Sues Uber For Illegally Accessing Medical Records](https://inc42.com/buzz/uber-rape-case/)**
