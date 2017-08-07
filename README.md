@@ -56,9 +56,9 @@ That’s right, we said educate *yourself*. We’re not going to do it for you.
 
 **[Q&A With the Black Twitter Engineer Who Left Over Diversity Problems](http://www.npr.org/sections/codeswitch/2015/11/06/454949422/a-q-a-with-lesley-miley-the-black-twitter-engineer-who-left-over-diversity-probl)** - What it says on the tin :)
 
-**[Conforming to Succeed — A talk about what it means for people of color to succeed in tech](https://www.youtube.com/watch?v=rzzGRHwfyNk)
+**[Conforming to Succeed — A talk about what it means for people of color to succeed in tech](https://www.youtube.com/watch?v=rzzGRHwfyNk)**
 
-**[Bias Doesn't Start with Skin Color - How bias creeps into our hiring and evaluation process](https://chelseatroy.com/2016/08/16/the-problem-is-you-think-its-about-skin-color/)
+**[Bias Doesn't Start with Skin Color - How bias creeps into our hiring and evaluation process](https://chelseatroy.com/2016/08/16/the-problem-is-you-think-its-about-skin-color/)**
 
 ### General
 
