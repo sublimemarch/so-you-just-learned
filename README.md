@@ -56,6 +56,10 @@ That’s right, we said educate *yourself*. We’re not going to do it for you.
 
 **[Q&A With the Black Twitter Engineer Who Left Over Diversity Problems](http://www.npr.org/sections/codeswitch/2015/11/06/454949422/a-q-a-with-lesley-miley-the-black-twitter-engineer-who-left-over-diversity-probl)** - What it says on the tin :)
 
+**[Conforming to Succeed — A talk about what it means for people of color to succeed in tech](https://www.youtube.com/watch?v=rzzGRHwfyNk)**
+
+**[Bias Doesn't Start with Skin Color - How bias creeps into our hiring and evaluation process](https://chelseatroy.com/2016/08/16/the-problem-is-you-think-its-about-skin-color/)**
+
 ### General
 
 **[Why I Won't Make it Past Your Careers Page](https://medium.com/shenomads/why-i-wont-make-it-past-your-careers-page-e7408a67f813)** - A look at how innocuous design decisions in your recruitment efforts can alienate candidates and stall hiring diverse candidates.
