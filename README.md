@@ -1,3 +1,5 @@
+[![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 So, you just learned there are issues with the tech industry. Maybe you came here looking to learn more, or maybe someone else linked you to this document and suggested you read it. What now?
 
 # Table of Contents
