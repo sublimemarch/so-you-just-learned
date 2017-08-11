@@ -29,7 +29,7 @@ You’re learning new things and you might want to jump in with both feet. *We g
 
 But some of your friends who have already been here a while might not have the same level of energy. And they really won’t appreciate it if you ask a bunch of questions that are easily Google-able. 
 
-It’s important to protect the *Emotional Labor* of your [marginalized](https://en.wikipedia.org/wiki/Social_exclusion) friends. They don’t want to be your teacher, they want to engage in discussion with you. But you have to do some up front work to get on their level.
+It’s important to protect the emotional bandwidth of your [marginalized](https://en.wikipedia.org/wiki/Social_exclusion) friends. They don’t want to be your teacher, they want to engage in discussion with you. But you have to do some up front work to get on their level.
 
 Take a deep breath, have Google opened in a new tab, learn to take really good notes, and get ready for step one.
 
