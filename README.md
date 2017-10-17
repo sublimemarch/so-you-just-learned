@@ -25,9 +25,9 @@ So, you just learned there are issues with the tech industry. Maybe you came her
 
 # Step 0: Please hold your questions until the end of Step 1.
 
-You’re learning new things and you might want to jump in with both feet. *We get it!* 
+You’re learning new things and you might want to jump in with both feet. *We get it!*
 
-But some of your friends who have already been here a while might not have the same level of energy. And they really won’t appreciate it if you ask a bunch of questions that are easily Google-able. 
+But some of your friends who have already been here a while might not have the same level of energy. And they really won’t appreciate it if you ask a bunch of questions that are easily Google-able.
 
 It’s important to protect the emotional bandwidth of your [marginalized](https://en.wikipedia.org/wiki/Social_exclusion) friends. They don’t want to be your teacher, they want to engage in discussion with you. But you have to do some up front work to get on their level.
 
@@ -81,7 +81,7 @@ Knowing that there are problems isn’t enough. Pick an organization that helps 
 
 [20/20 Shift](http://www.2020shift.com/)
 
-[AlterConf](https://alterconf.com/) 
+[AlterConf](https://alterconf.com/)
 
 [Anita Borg Institute](https://anitaborg.org/)
 
@@ -166,3 +166,5 @@ More reading for extra credit. These resources might have less to do with tech s
 **[4 Things Men Are Really Doing When They ‘Play Devil’s Advocate’ Against Feminism](http://everydayfeminism.com/2015/09/playing-devils-advocate/)** - Why your devil’s advocate arguments aren’t as novel or as necessary as you think they are.
 
 **[An Open Letter to Priviliged People Who Play Devil’s Advocate](http://feministing.com/2014/05/30/an-open-letter-to-privileged-people-who-play-devils-advocate/)** - A harsher and more direct open letter about devils advocacy, and what it does to people who have to defend themselves against it every day of their lives.
+
+**[Stop Calling Women Nags](http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/)** - Examples of emotional labor within one woman's life
