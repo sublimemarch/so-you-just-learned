@@ -18,16 +18,16 @@ So, you just learned there are issues with the tech industry. Maybe you came her
   - [Podcasts](#podcasts)
   - [Wiki/Timeline Resources](#wikitimeline-resources)
 - *[Bonus Reading](#step-4-bonus-reading)*
-  - [Understanding Privilige](#understanding-privilige)
+  - [Understanding Privilege](#understanding-privilige)
   - [Why Diversity is Important](#why-diversity-is-important)
   - [Sexism](#sexism)
   - [Emotional Labor](#emotional-labor)
 
 # Step 0: Please hold your questions until the end of Step 1.
 
-You’re learning new things and you might want to jump in with both feet. *We get it!* 
+You’re learning new things and you might want to jump in with both feet. *We get it!*
 
-But some of your friends who have already been here a while might not have the same level of energy. And they really won’t appreciate it if you ask a bunch of questions that are easily Google-able. 
+But some of your friends who have already been here a while might not have the same level of energy. And they really won’t appreciate it if you ask a bunch of questions that are easily Google-able.
 
 It’s important to protect the emotional bandwidth of your [marginalized](https://en.wikipedia.org/wiki/Social_exclusion) friends. They don’t want to be your teacher, they want to engage in discussion with you. But you have to do some up front work to get on their level.
 
@@ -45,11 +45,11 @@ That’s right, we said educate *yourself*. We’re not going to do it for you.
 
 
 ### Gender
-**[Antisocial coding: my year at github](http://where.coraline.codes/blog/my-year-at-github/)** - An important, frustrating, heartbreaking read about what happens to marginalized people when HR decides they don't want you anymore.
+**[Antisocial coding: my year at GitHub](http://where.coraline.codes/blog/my-year-at-github/)** - An important, frustrating, heartbreaking read about what happens to marginalized people when HR decides they don't want you anymore.
 
 **["Females" in Open Source](https://modelviewculture.com/pieces/females-in-open-source)** - "Events being ‘open to everyone’ was a token political statement. If they didn’t recognize someone as being part of their in-group, all they had to do was make them uncomfortable. After all, that person is always ‘free’ to leave."
 
-**[Reflecting On One Very, Very Strange Year At Uber](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber)** - Possibly the most euphamistic title I’ve ever seen of one of these accounts. Sexism and racism are rampant at Uber. Who knew?
+**[Reflecting On One Very, Very Strange Year At Uber](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber)** - Possibly the most euphemistic title I’ve ever seen of one of these accounts. Sexism and racism are rampant at Uber. Who knew?
 
 **[The Ping Pong Theory of Tech World Sexism](https://medium.com/matter/the-ping-pong-theory-of-tech-world-sexism-c2053c10c06c)** - Explaining tech world sexism in comic strip form.
 
@@ -81,7 +81,7 @@ Knowing that there are problems isn’t enough. Pick an organization that helps 
 
 [20/20 Shift](http://www.2020shift.com/)
 
-[AlterConf](https://alterconf.com/) 
+[AlterConf](https://alterconf.com/)
 
 [Anita Borg Institute](https://anitaborg.org/)
 
@@ -125,13 +125,13 @@ Follow publications and individuals that frequently discuss problems with the te
 
 # Step 4: Bonus Reading
 
-More reading for extra credit. These resources might have less to do with tech specifically, but are good resources for getting acquianted with ideas about marginalization and social justice.
+More reading for extra credit. These resources might have less to do with tech specifically, but are good resources for getting acquainted with ideas about marginalization and social justice.
 
-### Understanding Privilige
+### Understanding Privilege
 
-**[Straight White Male: The Lowest Difficulty Setting There Is](http://whatever.scalzi.com/2012/05/15/straight-white-male-the-lowest-difficulty-setting-there-is/)** - Still having a bit of a hard time wrapping your head around the concept of priviliege and how it can benifit you without you being aware of it? Here’s a handy metaphor. :)
+**[Straight White Male: The Lowest Difficulty Setting There Is](http://whatever.scalzi.com/2012/05/15/straight-white-male-the-lowest-difficulty-setting-there-is/)** - Still having a bit of a hard time wrapping your head around the concept of privilege and how it can benefit you without you being aware of it? Here’s a handy metaphor. :)
 
-**[On Nerd Entitlement](http://www.newstatesman.com/laurie-penny/on-nerd-entitlement-rebel-alliance-empire)** - It’s understantable that nerds who felt shunned in high school might not be able to see the privilige that helped them get through. But imagine doing all that and THEN being rejected because of your race or gender.
+**[On Nerd Entitlement](http://www.newstatesman.com/laurie-penny/on-nerd-entitlement-rebel-alliance-empire)** - It’s understandable that nerds who felt shunned in high school might not be able to see the privilege that helped them get through. But imagine doing all that and THEN being rejected because of your race or gender.
 
 **[Explaining Privilege to a Broke White Person](http://www.huffingtonpost.com/gina-crosleycorcoran/explaining-white-privilege-to-a-broke-white-person_b_5269255.html)**
 
@@ -139,7 +139,7 @@ More reading for extra credit. These resources might have less to do with tech s
 
 **[Parable of the Polygons](http://vihart.com/parable-of-the-polygons/)** - Small individual bias can lead to large collective bias. Our segregated past still haunts us, despite reduced bias now. We have to actively call for diversity to correct for de facto segregation. Learn how WITH INTERACTIVE MATH.
 
-**[Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options)** - Plenty of poeple don’t drink for religious, health, or personal reasons. It’s not really any of our business why someone chooses not to drink, but it *is* our responsibility to make them feel included and not tie career growth and networking opportunities to alcohol consumption.
+**[Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options)** - Plenty of people don’t drink for religious, health, or personal reasons. It’s not really any of our business why someone chooses not to drink, but it *is* our responsibility to make them feel included and not tie career growth and networking opportunities to alcohol consumption.
 
 ### Sexism
 
@@ -165,4 +165,4 @@ More reading for extra credit. These resources might have less to do with tech s
 
 **[4 Things Men Are Really Doing When They ‘Play Devil’s Advocate’ Against Feminism](http://everydayfeminism.com/2015/09/playing-devils-advocate/)** - Why your devil’s advocate arguments aren’t as novel or as necessary as you think they are.
 
-**[An Open Letter to Priviliged People Who Play Devil’s Advocate](http://feministing.com/2014/05/30/an-open-letter-to-privileged-people-who-play-devils-advocate/)** - A harsher and more direct open letter about devils advocacy, and what it does to people who have to defend themselves against it every day of their lives.
+**[An Open Letter to Privileged People Who Play Devil’s Advocate](http://feministing.com/2014/05/30/an-open-letter-to-privileged-people-who-play-devils-advocate/)** - A harsher and more direct open letter about devils advocacy, and what it does to people who have to defend themselves against it every day of their lives.
