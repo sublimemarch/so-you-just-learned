@@ -33,6 +33,8 @@ It’s important to protect the emotional bandwidth of your [marginalized](https
 
 Take a deep breath, have Google opened in a new tab, learn to take really good notes, and get ready for step one.
 
+[Be sure to check out our glossary](https://github.com/stephmarx/so-you-just-learned/blob/master/glossary.md)
+
 # Step 1: Educate Yourself
 
 That’s right, we said educate *yourself*. We’re not going to do it for you.
