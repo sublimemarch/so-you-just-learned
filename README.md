@@ -168,3 +168,7 @@ More reading for extra credit. These resources might have less to do with tech s
 **[An Open Letter to Priviliged People Who Play Devil’s Advocate](http://feministing.com/2014/05/30/an-open-letter-to-privileged-people-who-play-devils-advocate/)** - A harsher and more direct open letter about devils advocacy, and what it does to people who have to defend themselves against it every day of their lives.
 
 **[Stop Calling Women Nags](http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/)** - Examples of emotional labor within one woman's life
+
+### Have you found this resource useful?
+
+**[Help us by contributing!](https://github.com/stephmarx/so-you-just-learned/blob/master/contributing.md)**
