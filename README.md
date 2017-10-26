@@ -169,4 +169,6 @@ More reading for extra credit. These resources might have less to do with tech s
 
 **[Stop Calling Women Nags](http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/)** - Examples of emotional labor within one woman's life
 
-**[Have you found this resource useful? Help us by contributing!](https://github.com/stephmarx/so-you-just-learned/blob/master/contributing.md)**
+### Have you found this resource useful?
+
+**[Help us by contributing!](https://github.com/stephmarx/so-you-just-learned/blob/master/contributing.md)**
