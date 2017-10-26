@@ -9,11 +9,11 @@ Here's a quick reference to terms you may have seen as you progress through the 
 
 ### A
 
-#### [Ally](https://everydayfeminism.com/2013/11/things-allies-need-to-know/): *A member of an advantaged social group that enjoys some privilege, that is \**actively** working to end oppression and understand their own privilege, and eliminate oppressive beliefs in themselves and their communities.*
+#### [Ally](https://everydayfeminism.com/2013/11/things-allies-need-to-know/): *A member of an advantaged social group that enjoys some privilege, that is _actively_ working to end oppression and understand their own privilege, and eliminate oppressive beliefs in themselves and their communities.*
 
 ### B
 
-#### [Bias](https://en.wikipedia.org/wiki/Bias):  *Bias is the tendency to have an opinion, or view, that is often without considering evidence and other information. Bias can come in many forms and is related to prejudice and intuition*
+#### [Bias](https://en.wikipedia.org/wiki/Bias):  *The tendency to have an opinion, or view, that is often without considering evidence and other information. Bias can come in many forms and is related to prejudice and intuition*
 
 ### C
 
@@ -45,7 +45,7 @@ Here's a quick reference to terms you may have seen as you progress through the 
 ### N
 ### O
 
-#### [Oppression](https://www.huffingtonpost.com/chris-boeskool/when-youre-accustomed-to-privilege_b_9460662.html): Systemic, pervasive inequality present throughout society that benefits people with more privilege and harms those with fewer privileges.
+#### [Oppression](https://www.huffingtonpost.com/chris-boeskool/when-youre-accustomed-to-privilege_b_9460662.html): *Systemic, pervasive inequality present throughout society that benefits people with more privilege and harms those with fewer privileges.*
 
 ### P
 
@@ -55,12 +55,12 @@ Here's a quick reference to terms you may have seen as you progress through the 
 ### R
 ### S
 
-#### [Stereotype Threat](https://en.wikipedia.org/wiki/Stereotype_threat):  *Stereotype threat is a situational predicament in which people are or feel themselves to be at risk of conforming to stereotypes about their social group.*
-#### [Sealioning](http://simplikation.com/why-sealioning-is-bad/):  *the act of jumping into a discussion with demands for evidence and answers to questions.*
+#### [Stereotype Threat](https://en.wikipedia.org/wiki/Stereotype_threat):  *A situational predicament in which people are or feel themselves to be at risk of conforming to stereotypes about their social group.*
+#### [Sealioning](http://simplikation.com/why-sealioning-is-bad/):  *The act of jumping into a discussion with demands for evidence and answers to questions.*
 
 ### T
 
-#### [Trans](http://www.glaad.org/reference/transgender): *individuals whose gender identity is different than the gender that was assigned at birth.*
+#### [Trans](http://www.glaad.org/reference/transgender): *Individuals whose gender identity is different than the gender that was assigned at birth.*
 
 ### U
 ### V
