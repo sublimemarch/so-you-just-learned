@@ -95,6 +95,8 @@ Knowing that there are problems isn’t enough. Pick an organization that helps 
 
 [ChickTech](https://chicktech.org/)
 
+[Codebar](https://codebar.io/)
+
 [Fundclub](http://joinfundclub.com/)
 
 [Good for POC in Tech](http://goodforpocin.tech/)
