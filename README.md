@@ -109,6 +109,8 @@ Knowing that there are problems isn’t enough. Pick an organization that helps 
 
 [TransTech](http://transtechsocial.org/)
 
+[She#](https://www.shesharp.co.nz/)
+
 # Step 3: Keep Educating Yourself
 
 Keep up with current events and developments.
