@@ -53,10 +53,13 @@ Here's a quick reference to terms you may have seen as you progress through the 
 
 ### Q
 ### R
+
+#### [Rape Culture](https://en.wikipedia.org/wiki/Rape_culture): *A sociological concept used to describe a setting in which rape is pervasive and normalized due to societal attitudes about gender and sexuality.*
 ### S
 
 #### [Stereotype Threat](https://en.wikipedia.org/wiki/Stereotype_threat):  *A situational predicament in which people are or feel themselves to be at risk of conforming to stereotypes about their social group.*
 #### [Sealioning](http://simplikation.com/why-sealioning-is-bad/):  *The act of jumping into a discussion with demands for evidence and answers to questions.*
+#### [Sexual Harrassment](https://www.merriam-webster.com/dictionary/sexual%20harassment): *The uninvited and unwelcome verbal or physical behavior of a sexual nature especially by a person in authority toward a subordinate (such as an employee or student)*
 
 ### T
 
