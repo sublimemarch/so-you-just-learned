@@ -47,6 +47,7 @@ Maintainers of the repo will [review](#pull-request-submission-and-review-proces
 2. Assign all of the [maintainers](#maintainers) to the PR to make sure we see it!
 
 3. When 2/3 of the maintainers approve the pull request, we will merge it in.
+
   a. If we request changes to your PR, we'll usually be pretty specific or invite further discussion. If you're confused about any of the review notes on your pull request, don't be shy about asking for clarification or pushing back. We love healthy discussion. Just be sure to keep our [code of conduct](https://github.com/stephmarx/so-you-just-learned/blob/master/code_of_conduct.md) in mind.
 
 **Thank you for your interest in contributing to this project. If you found it useful, please share it far and wide.**
