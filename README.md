@@ -21,7 +21,8 @@ So, you just learned there are issues with the tech industry. Maybe you came her
   - [Understanding Privilege](#understanding-privilige)
   - [Why Diversity is Important](#why-diversity-is-important)
   - [Sexism](#sexism)
-  - [Emotional Overhead and the Second Shift](#emotional-overhead-and-the-second-shift)
+  - [The Second Shift](#the-second-shift)
+  - [Rhetorical Tactics and Discourse Fatigue](#rhetorical-tactics-and-discourse-fatigue)
 
 # Step 0: Please hold your questions until the end of Step 1.
 
@@ -163,7 +164,11 @@ More reading for extra credit. These resources might have less to do with tech s
 
 **[Delhi Rape Survivor Sues Uber For Illegally Accessing Medical Records](https://inc42.com/buzz/uber-rape-case/)**
 
-### Emotional Overhead and the Second Shift
+### The Second Shift
+
+**[Stop Calling Women Nags](http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/)** - Examples of emotional labor within one woman's life
+
+### Rhetorical Tactics and Discourse Fatigue
 
 **[Sealioning: How to Deal with the Time-Wasting Troll Tactic We’re All Tired Of](http://everydayfeminism.com/2017/01/sealioning/)**
 
@@ -172,8 +177,6 @@ More reading for extra credit. These resources might have less to do with tech s
 **[4 Things Men Are Really Doing When They ‘Play Devil’s Advocate’ Against Feminism](http://everydayfeminism.com/2015/09/playing-devils-advocate/)** - Why your devil’s advocate arguments aren’t as novel or as necessary as you think they are.
 
 **[An Open Letter to Privileged People Who Play Devil’s Advocate](http://feministing.com/2014/05/30/an-open-letter-to-privileged-people-who-play-devils-advocate/)** - A harsher and more direct open letter about devils advocacy, and what it does to people who have to defend themselves against it every day of their lives.
-
-**[Stop Calling Women Nags](http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/)** - Examples of emotional labor within one woman's life
 
 ### Have you found this resource useful?
 
