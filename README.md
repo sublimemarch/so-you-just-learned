@@ -164,7 +164,7 @@ More reading for extra credit. These resources might have less to do with tech s
 
 **[Delhi Rape Survivor Sues Uber For Illegally Accessing Medical Records](https://inc42.com/buzz/uber-rape-case/)**
 
-### The Second Shift
+### [The Second Shift](http://geekfeminism.wikia.com/wiki/Second_shift)
 
 **[Stop Calling Women Nags](http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/)** - Examples of emotional labor within one woman's life
 
