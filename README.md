@@ -21,7 +21,7 @@ So, you just learned there are issues with the tech industry. Maybe you came her
   - [Understanding Privilege](#understanding-privilige)
   - [Why Diversity is Important](#why-diversity-is-important)
   - [Sexism](#sexism)
-  - [Emotional Overhead and the Second Shift](#emotional-overhead-and the-second-shift)
+  - [Emotional Overhead and the Second Shift](#emotional-overhead-and-the-second-shift)
 
 # Step 0: Please hold your questions until the end of Step 1.
 
