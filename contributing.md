@@ -28,7 +28,7 @@ Make changes in a local branch and open a pull request from your fork to the par
 
 This resource currently exists as a series of markdown files. For more information on Github flavored markdown, check out their [handy guide](https://guides.github.com/features/mastering-markdown/).
 
-We track discussions and potential additions to the repo via the [issue tracker](https://github.com/stephmarx/so-you-just-learned/issues) on the github repo. We [label issues](#issue-lables) in a way that will help you make your first contribution to the project.
+We track discussions and potential additions to the repo via the [issue tracker](https://github.com/stephmarx/so-you-just-learned/issues) on the github repo. We [label issues](#issue-labels) in a way that will help you make your first contribution to the project.
 
 When you submit your pull request, please be descriptive in your commit messages and PR titles :)
 
