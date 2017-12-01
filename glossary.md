@@ -22,9 +22,9 @@ Here's a quick reference to terms you may have seen as you progress through the 
 ### D
 ### E
 
-#### [Emotional Labor](http://geekfeminism.wikia.com/wiki/Emotional_labor):  *Tasks that require a high degree of understanding or management of one's own emotions as well as other people's emotions. The tasks are also commonly "extra" or undervalued for the amount of actual labor or time spent on them, and left out of official job descriptions or task assignments even when the function is vital to the organization (emotional labor is related to, but distinct from the [Second Shift](#second-shift)).
+#### [Emotional Labor](http://geekfeminism.wikia.com/wiki/Emotional_labor):  *Tasks that require a high degree of understanding or management of one's own emotions as well as other people's emotions. The tasks are also commonly "extra" or undervalued for the amount of actual labor or time spent on them, and left out of official job descriptions or task assignments even when the function is vital to the organization (emotional labor is related to, but distinct from the [Second Shift](#second-shift)).*
 
-Common emotional labor tasks might include teaching skills while managing the student's expectations and emotional responses, or staying calm and collected in a heated customer service situation.*
+*Common emotional labor tasks might include teaching skills while managing the student's expectations and emotional responses, or staying calm and collected in a heated customer service situation.*
 
 ### F
 ### G
