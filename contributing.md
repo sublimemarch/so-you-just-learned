@@ -28,13 +28,29 @@ Make changes in a local branch and open a pull request from your fork to the par
 
 This resource currently exists as a series of markdown files. For more information on Github flavored markdown, check out their [handy guide](https://guides.github.com/features/mastering-markdown/).
 
-Please be descriptive in your commit messages :)
+We track discussions and potential additions to the repo via the [issue tracker](https://github.com/stephmarx/so-you-just-learned/issues) on the github repo. We [label issues](#issue-lables) in a way that will help you make your first contribution to the project.
 
-Maintainers of the repo will review the resources linked in your pull request. When your pull request is approved we will squash and merge the commits.
+When you submit your pull request, please be descriptive in your commit messages and PR titles :)
 
-Thank you for your interest in contributing to this project. If you found it useful, please share it far and wide. 
+Maintainers of the repo will [review](#pull-request-submission-and-review-process) the resources linked in your pull request. When your pull request is approved we will squash and merge the commits.
 
-## Core Contributors
+### Issue Labels
+
+- `good for new folks`: We welcome new contributors to help with any issue, and we've tagged some issues as specifically being easily approachable for new contributors. These might include adding links, fixing typos, or other small changes that don't require lots of discussion.
+
+- `discussion requested`: This means that someone would like to have a discussion about an issue proposed to the project. This might include discussing the best way compassionately tackle a current event or how to approach including a new link, for example.
+
+## Pull Request Submission and Review Process
+
+1. When you submit a PR, include any relevant issue numbers either in the title or the PR description.
+
+2. Assign all of the [maintainers](#maintainers) to the PR to make sure we see it!
+
+3. When 2/3 of the maintainers approve the pull request, we will merge it in.
+
+**Thank you for your interest in contributing to this project. If you found it useful, please share it far and wide.**
+
+## Maintainers
 
 - [stephmarx](https://github.com/stephmarx)
 - [cmho](https://github.com/cmho)
