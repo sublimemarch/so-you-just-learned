@@ -21,7 +21,7 @@ So, you just learned there are issues with the tech industry. Maybe you came her
   - [Understanding Privilege](#understanding-privilige)
   - [Why Diversity is Important](#why-diversity-is-important)
   - [Sexism](#sexism)
-  - [Emotional Labor](#emotional-labor)
+  - [Emotional Overhead and the Second Shift](#emotional-overhead-and the-second-shift)
 
 # Step 0: Please hold your questions until the end of Step 1.
 
@@ -163,7 +163,7 @@ More reading for extra credit. These resources might have less to do with tech s
 
 **[Delhi Rape Survivor Sues Uber For Illegally Accessing Medical Records](https://inc42.com/buzz/uber-rape-case/)**
 
-### Emotional Labor
+### Emotional Overhead and the Second Shift
 
 **[Sealioning: How to Deal with the Time-Wasting Troll Tactic We’re All Tired Of](http://everydayfeminism.com/2017/01/sealioning/)**
 
