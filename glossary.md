@@ -1,6 +1,6 @@
 # Glossary
 
-## Terms surrounding emotional labor & marginalized communities
+## Terms relevant to understanding marginalization and marginalized communities
 
 Here's a quick reference to terms you may have seen as you progress through the README contents. If there are terms you'd like defined in this glossary, please open an issue.
 
@@ -22,7 +22,9 @@ Here's a quick reference to terms you may have seen as you progress through the 
 ### D
 ### E
 
-#### [Emotional Labor](http://geekfeminism.wikia.com/wiki/Emotional_labor):  *Tasks that require a high degree of understanding or management of emotions. The tasks are also commonly "extra" or undervalued for the amount of actual labor or time spent on them, and left out of official job descriptions or task assignments even when the function is vital to the organization (sometimes known as the [Second Shift](http://geekfeminism.wikia.com/wiki/Second_shift)).*
+#### [Emotional Labor](http://geekfeminism.wikia.com/wiki/Emotional_labor):  *Tasks that require a high degree of understanding or management of one's own emotions as well as other people's emotions. The tasks are also commonly "extra" or undervalued for the amount of actual labor or time spent on them, and left out of official job descriptions or task assignments even when the function is vital to the organization (emotional labor is related to, but distinct from the [Second Shift](#second-shift--the-workload-women-have-over-and-above-what-men-have-in-mainstream-society-womens-second-shift-mostly-consists-of-childcare-eldercare-and-domestic-labour)).*
+
+*Common emotional labor tasks might include teaching skills while managing the student's expectations and emotional responses, or staying calm and collected in a heated customer service situation.*
 
 ### F
 ### G
@@ -57,9 +59,11 @@ Here's a quick reference to terms you may have seen as you progress through the 
 #### [Rape Culture](https://en.wikipedia.org/wiki/Rape_culture): *A sociological concept used to describe a setting in which rape is pervasive and normalized due to societal attitudes about gender and sexuality.*
 ### S
 
-#### [Stereotype Threat](https://en.wikipedia.org/wiki/Stereotype_threat):  *A situational predicament in which people are or feel themselves to be at risk of conforming to stereotypes about their social group.*
+
 #### [Sealioning](http://simplikation.com/why-sealioning-is-bad/):  *The act of jumping into a discussion with demands for evidence and answers to questions.*
+#### [Second Shift](http://geekfeminism.wikia.com/wiki/Second_shift):  *The workload women have over and above what men have. In mainstream society, women's second shift mostly consists of childcare, eldercare, and domestic labour.*
 #### [Sexual Harrassment](https://www.merriam-webster.com/dictionary/sexual%20harassment): *The uninvited and unwelcome verbal or physical behavior of a sexual nature especially by a person in authority toward a subordinate (such as an employee or student)*
+#### [Stereotype Threat](https://en.wikipedia.org/wiki/Stereotype_threat):  *A situational predicament in which people are or feel themselves to be at risk of conforming to stereotypes about their social group.*
 
 ### T
 
