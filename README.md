@@ -82,37 +82,37 @@ That’s right, we said educate *yourself*. We’re not going to do it for you.
 
 Knowing that there are problems isn’t enough. Pick an organization that helps to improve the tech industry and donate your money or time.
 
-[20/20 Shift](http://www.2020shift.com/)
+- **[20/20 Shift](http://www.2020shift.com/)**
 
-[AlterConf](https://alterconf.com/)
+- **[AlterConf](https://alterconf.com/)**
 
-[Anita Borg Institute](https://anitaborg.org/)
+- **[Anita Borg Institute](https://anitaborg.org/)**
 
-[BIG Accelerator](http://www.digitalundivided.com/accelerate/)
+- **[BIG Accelerator](http://www.digitalundivided.com/accelerate/)**
 
-[Black Girls Code](http://www.blackgirlscode.com/)
+- **[Black Girls Code](http://www.blackgirlscode.com/)**
 
-[CallbackWomen](http://www.callbackwomen.com/)
+- **[CallbackWomen](http://www.callbackwomen.com/)**
 
-[ChickTech](https://chicktech.org/)
+- **[ChickTech](https://chicktech.org/)**
 
-[Codebar](https://codebar.io/)
+- **[Codebar](https://codebar.io/)**
 
-[Fundclub](http://joinfundclub.com/)
+- **[Fundclub](http://joinfundclub.com/)**
 
-[Good for POC in Tech](http://goodforpocin.tech/)
+- **[Good for POC in Tech](http://goodforpocin.tech/)**
 
-[Hypatia Software Organization](https://hypatiasoftware.org/)
+- **[Hypatia Software Organization](https://hypatiasoftware.org/)**
 
-[I Need Diverse Games](https://ineeddiversegames.org/)
+- **[I Need Diverse Games](https://ineeddiversegames.org/)**
 
-[People of Color in Tech](http://peopleofcolorintech.com/)
+- **[People of Color in Tech](http://peopleofcolorintech.com/)**
 
-[Trans*H4CK](http://www.transhack.org/)
+- **[Trans*H4CK](http://www.transhack.org/)**
 
-[TransTech](http://transtechsocial.org/)
+- **[TransTech](http://transtechsocial.org/)**
 
-[She#](https://www.shesharp.co.nz/)
+- **[She#](https://www.shesharp.co.nz/)**
 
 # Step 3: Keep Educating Yourself
 
