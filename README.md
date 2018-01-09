@@ -98,6 +98,8 @@ Knowing that there are problems isn’t enough. Pick an organization that helps 
 
 - **[Codebar](https://codebar.io/)**
 
+- **[Confa11y](https://www.confa11y.com/)**
+
 - **[Fundclub](http://joinfundclub.com/)**
 
 - **[Good for POC in Tech](http://goodforpocin.tech/)**
