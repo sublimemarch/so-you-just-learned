@@ -43,6 +43,7 @@ Here's a quick reference to terms you may have seen as you progress through the 
 
 #### [Marginalized](https://en.wikipedia.org/wiki/Social_exclusion):  *To put or keep (someone) in a powerless or unimportant position within a society or group.*
 #### [Mansplaining](https://en.wikipedia.org/wiki/Mansplaining):  *A blend of the word man and the informal form splaining of the verb explaining and means "to explain something to someone, characteristically by a man to woman, in a manner regarded as condescending or patronizing"*
+#### [Missing Stair](https://en.wikipedia.org/wiki/Missing_stair): *A term used to describe a sexual predator whom many people know cannot be trusted, but who, rather than shunning, they work around by trying to quietly warn others. The term was coined by the blog* [The Pervocracy](http://pervocracy.blogspot.com/2012/06/missing-stair.html) *in 2012.*
 
 ### N
 ### O
@@ -75,4 +76,3 @@ Here's a quick reference to terms you may have seen as you progress through the 
 ### X
 ### Y
 ### Z
-
