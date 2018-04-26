@@ -102,6 +102,8 @@ Knowing that there are problems isn’t enough. Pick an organization that helps 
 
 - **[Fundclub](http://joinfundclub.com/)**
 
+- **[Girl Develop It](https://www.girldevelopit.com/)**
+
 - **[Good for POC in Tech](http://goodforpocin.tech/)**
 
 - **[Hypatia Software Organization](https://hypatiasoftware.org/)**
