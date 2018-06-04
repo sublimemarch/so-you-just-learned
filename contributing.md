@@ -44,7 +44,7 @@ Maintainers of the repo will [review](#pull-request-submission-and-review-proces
 
 1. When you submit a PR, include any relevant issue numbers either in the title or the PR description.
 
-2. Assign all of the [maintainers](#maintainers) to the PR to make sure we see it!
+2. @mention all of the [maintainers](#maintainers) in your PR description to make sure we see it!
 
 3. When 2/3 of the maintainers approve the pull request, we will merge it in.
 
