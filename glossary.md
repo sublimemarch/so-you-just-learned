@@ -45,6 +45,11 @@ Here's a quick reference to terms you may have seen as you progress through the 
 #### [Mansplaining](https://en.wikipedia.org/wiki/Mansplaining):  *A blend of the word man and the informal form splaining of the verb explaining and means "to explain something to someone, characteristically by a man to woman, in a manner regarded as condescending or patronizing"*
 
 ### N
+
+#### [Neopronoun](https://nonbinary.miraheze.org/wiki/List_of_neopronouns) *Neopronouns are gender-neutral pronouns used in place of the singular "they." Example: The presenter is from Brazil and ey will be demonstrating a new web framwork written in LOLCODE.* For a guide on how to use many English language [pronouns](#pronouns) and neopronouns, visit [Pronoun Island](https://pronoun.is/).
+
+#### [Nonbinary](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) *An individual whose gender blends elements of being a man or a woman, or whose gender is different than either male or female.* People whose gender is not male or female use many differnt terms to describe themselves, with nonbinary being the most common. Other terms include **genderqueer**, **agender**, **bigender**, **genderfluid**, and more.
+
 ### O
 
 #### [Oppression](https://www.huffingtonpost.com/chris-boeskool/when-youre-accustomed-to-privilege_b_9460662.html): *Systemic, pervasive inequality present throughout society that benefits people with more privilege and harms those with fewer privileges.*
@@ -52,6 +57,8 @@ Here's a quick reference to terms you may have seen as you progress through the 
 ### P
 
 #### [Privilege](https://everydayfeminism.com/2014/09/what-is-privilege/):  *An unearned advantage given to some people but not all. Individuals with privilege are considered to be the normative group, leaving those without access to this privilege invisible, unnatural, deviant, or just plain wrong. Most of the time, these privileges are automatic and most individuals in the privileged group are unaware of them. Some people who can “pass” as members of the privileged group might have access to some levels of privilege.*
+
+#### [Pronouns](https://uwm.edu/lgbtrc/support/gender-pronouns/) *A pronoun is a part of speech that refers to either the people talking (I or you) or something that is being talked about (she/them/ver/faer/it/this etc.) Gender pronouns (they/she/ze/he/ve/fae etc.) specifically refer to people that you are talking about.* For a detailed guide on how many different English language pronouns, visit [Pronoun Island](https://pronoun.is/). See also [Neopronouns](#neopronouns).
 
 ### Q
 ### R
