@@ -85,7 +85,7 @@ Common emotional labor tasks might include teaching skills while managing the st
 
 #### [Pronouns](https://uwm.edu/lgbtrc/support/gender-pronouns/)
 
-*A pronoun is a part of speech that refers to either the people talking (I or you) or something that is being talked about (she/them/ver/faer/it/this etc.) Gender pronouns (they/she/ze/he/ve/fae etc.) specifically refer to people that you are talking about.* For a detailed guide on how many different English language pronouns, visit [Pronoun Island](https://pronoun.is/).
+*A pronoun is a part of speech that refers to either the people talking (I or you) or something that is being talked about (she/them/ver/faer/it/this etc.) Gender pronouns (they/she/ze/he/ve/fae etc.) specifically refer to people that you are talking about.* For a detailed guide on how many different English language pronouns, visit [Pronoun Island](https://pronoun.is/). See also [Neopronouns](#neopronouns).
 
 ### Q
 ### R
