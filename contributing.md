@@ -36,6 +36,6 @@ Thank you for your interest in contributing to this project. If you found it use
 
 ## Core Contributors
 
-- [stephmarx](https://github.com/stephmarx)
+- [sublimemarch](https://github.com/sublimemarch)
 - [cmho](https://github.com/cmho)
 - [thejessleigh](https://github.com/thejessleigh)
