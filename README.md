@@ -82,37 +82,41 @@ That’s right, we said educate *yourself*. We’re not going to do it for you.
 
 Knowing that there are problems isn’t enough. Pick an organization that helps to improve the tech industry and donate your money or time.
 
-[20/20 Shift](http://www.2020shift.com/)
+- **[20/20 Shift](http://www.2020shift.com/)**
 
-[AlterConf](https://alterconf.com/)
+- **[AlterConf](https://alterconf.com/)**
 
-[Anita Borg Institute](https://anitaborg.org/)
+- **[Anita Borg Institute](https://anitaborg.org/)**
 
-[BIG Accelerator](http://www.digitalundivided.com/accelerate/)
+- **[BIG Accelerator](http://www.digitalundivided.com/accelerate/)**
 
-[Black Girls Code](http://www.blackgirlscode.com/)
+- **[Black Girls Code](http://www.blackgirlscode.com/)**
 
-[CallbackWomen](http://www.callbackwomen.com/)
+- **[CallbackWomen](http://www.callbackwomen.com/)**
 
-[ChickTech](https://chicktech.org/)
+- **[ChickTech](https://chicktech.org/)**
 
-[Codebar](https://codebar.io/)
+- **[Codebar](https://codebar.io/)**
 
-[Fundclub](http://joinfundclub.com/)
+- **[Confa11y](https://www.confa11y.com/)**
 
-[Good for POC in Tech](http://goodforpocin.tech/)
+- **[Fundclub](http://joinfundclub.com/)**
 
-[Hypatia Software Organization](https://hypatiasoftware.org/)
+- **[Girl Develop It](https://www.girldevelopit.com/)**
 
-[I Need Diverse Games](https://ineeddiversegames.org/)
+- **[Good for POC in Tech](http://goodforpocin.tech/)**
 
-[People of Color in Tech](http://peopleofcolorintech.com/)
+- **[Hypatia Software Organization](https://hypatiasoftware.org/)**
 
-[Trans*H4CK](http://www.transhack.org/)
+- **[I Need Diverse Games](https://ineeddiversegames.org/)**
 
-[TransTech](http://transtechsocial.org/)
+- **[People of Color in Tech](http://peopleofcolorintech.com/)**
 
-[She#](https://www.shesharp.co.nz/)
+- **[Trans*H4CK](http://www.transhack.org/)**
+
+- **[TransTech](http://transtechsocial.org/)**
+
+- **[She#](https://www.shesharp.co.nz/)**
 
 Are you a meetup or conference organizer looking to make your event more inclusive? Or do you have some rad tips to help other organizers out? Check out [Let's Do Better](https://github.com/sublimemarch/lets-do-better): a guide to radical inclusion in both physical and digital spaces in the tech industry.
 

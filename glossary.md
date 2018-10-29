@@ -53,6 +53,7 @@ Common emotional labor tasks might include teaching skills while managing the st
 ### L
 ### M
 
+
 #### [Marginalized](https://en.wikipedia.org/wiki/Social_exclusion)
 
 *To put or keep (someone) in a powerless or unimportant position within a society or group.*
@@ -60,6 +61,9 @@ Common emotional labor tasks might include teaching skills while managing the st
 #### [Mansplaining](https://en.wikipedia.org/wiki/Mansplaining)
 
 *A blend of the word man and the informal form splaining of the verb explaining and means "to explain something to someone, characteristically by a man to woman, in a manner regarded as condescending or patronizing"*
+
+#### [Missing Stair](https://en.wikipedia.org/wiki/Missing_stair): *A term used to describe a sexual predator whom many people know cannot be trusted, but who, rather than shunning, they work around by trying to quietly warn others. The term was coined by the blog* [The Pervocracy](http://pervocracy.blogspot.com/2012/06/missing-stair.html) *in 2012.*
+
 
 ### N
 
@@ -124,4 +128,3 @@ isk of conforming to stereotypes about their social group.*
 ### X
 ### Y
 ### Z
-
