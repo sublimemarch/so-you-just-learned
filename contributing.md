@@ -54,6 +54,6 @@ Maintainers of the repo will [review](#pull-request-submission-and-review-proces
 
 ## Maintainers
 
-- [stephmarx](https://github.com/stephmarx)
+- [sublimemarch](https://github.com/sublimemarch)
 - [cmho](https://github.com/cmho)
 - [thejessleigh](https://github.com/thejessleigh)

@@ -118,6 +118,8 @@ Knowing that there are problems isn’t enough. Pick an organization that helps 
 
 - **[She#](https://www.shesharp.co.nz/)**
 
+Are you a meetup or conference organizer looking to make your event more inclusive? Or do you have some rad tips to help other organizers out? Check out [Let's Do Better](https://github.com/sublimemarch/lets-do-better): a guide to radical inclusion in both physical and digital spaces in the tech industry.
+
 # Step 3: Keep Educating Yourself
 
 Keep up with current events and developments.
