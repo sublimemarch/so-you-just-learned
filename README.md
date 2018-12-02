@@ -78,13 +78,13 @@ That’s right, we said educate *yourself*. We’re not going to do it for you.
 
 **[A Hacking Hiatus](https://medium.com/hackers-and-hacking/a-hacking-hiatus-4844ae073d4)**  - "I’ve felt increasingly uncomfortable and often downright disrespected within a community that I helped build.“
 
+**[AlterConf](https://alterconf.com/)** - Archive of talks given at AlterConf, which was "a traveling conference series that provided safe opportunities for marginalized people and those who support them in the tech and gaming industries."
+
 # Step 2: Do Something About It
 
 Knowing that there are problems isn’t enough. Pick an organization that helps to improve the tech industry and donate your money or time.
 
 - **[20/20 Shift](http://www.2020shift.com/)**
-
-- **[AlterConf](https://alterconf.com/)**
 
 - **[Anita Borg Institute](https://anitaborg.org/)**
 
