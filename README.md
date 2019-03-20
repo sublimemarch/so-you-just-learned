@@ -70,6 +70,8 @@ That’s right, we said educate *yourself*. We’re not going to do it for you.
 
 ### General
 
+**[Tweaking the Moral UI](https://alistapart.com/article/tweaking-the-moral-ui)** - How one woman came to understand why Codes of Conduct are necessary, and not just a PC buzzkill.
+
 **[Why I Won't Make it Past Your Careers Page](https://medium.com/shenomads/why-i-wont-make-it-past-your-careers-page-e7408a67f813)** - A look at how innocuous design decisions in your recruitment efforts can alienate candidates and stall hiring diverse candidates.
 
 **[The Other Side of Diversity](https://medium.com/this-is-hard/the-other-side-of-diversity-1bb3de2f053e)** - "I don’t need to change to fit within my industry. My industry needs to change to make everyone feel included and accepted."
