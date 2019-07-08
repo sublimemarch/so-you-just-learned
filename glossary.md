@@ -62,7 +62,9 @@ Common emotional labor tasks might include teaching skills while managing the st
 
 *A blend of the word man and the informal form splaining of the verb explaining and means "to explain something to someone, characteristically by a man to woman, in a manner regarded as condescending or patronizing"*
 
-#### [Missing Stair](https://en.wikipedia.org/wiki/Missing_stair): *A term used to describe a sexual predator whom many people know cannot be trusted, but who, rather than shunning, they work around by trying to quietly warn others. The term was coined by the blog* [The Pervocracy](http://pervocracy.blogspot.com/2012/06/missing-stair.html) *in 2012.*
+#### [Missing Stair](https://en.wikipedia.org/wiki/Missing_stair)
+
+*A term used to describe a sexual predator whom many people know cannot be trusted, but who, rather than shunning, they work around by trying to quietly warn others. The term was coined by the blog* [The Pervocracy](http://pervocracy.blogspot.com/2012/06/missing-stair.html) *in 2012.*
 
 
 ### N
@@ -112,9 +114,9 @@ Common emotional labor tasks might include teaching skills while managing the st
 
 *The uninvited and unwelcome verbal or physical behavior of a sexual nature especially by a person in authority toward a subordinate (such as an employee or student)*
 
-#### [Stereotype Threat](https://en.wikipedia.org/wiki/Stereotype_threat)*A situational predicament in which people are or feel themselves to be at r
+#### [Stereotype Threat](https://en.wikipedia.org/wiki/Stereotype_threat)
 
-isk of conforming to stereotypes about their social group.*
+*A situational predicament in which people are or feel themselves to be at risk of conforming to stereotypes about their social group.*
 
 ### T
 
